@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vik33
+- 👀 I’m interested in Cloud Computing Technologies, Database Engineering and solution architecture principles
+- 🌱 I’m currently learning Amazon Web Services, Python and Database concepts
+- 💞️ I’m looking to collaborate on AWS, Python and Database projects
+- 📫 How to reach me: vikram.hegde.m@gmail.com for any collaborations, good content and communications.
